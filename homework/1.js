@@ -1,1 +1,1 @@
-let test;
+let test = 2;
